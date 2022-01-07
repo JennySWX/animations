@@ -1,0 +1,24 @@
+{
+  "name": "animations",
+  "version": "1.0.0",
+  "description": "CSS animations",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JennySWX/animations.git"
+  },
+  "author": "wenxin shan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JennySWX/animations/issues"
+  },
+  "homepage": "https://github.com/JennySWX/animations#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
