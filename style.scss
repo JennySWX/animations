@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    li {
+        list-style-type: none; /*remove the point*/
+        a {
+            text-decoration: none;
+            font: 100px;
+        }
+    }
+}

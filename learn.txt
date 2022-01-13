@@ -1,0 +1,8 @@
+SASS
+
+How to link to the html
+1. create a css file "style.scss"
+2. write <link rel="stylesheet" type="text/css" href="style.css"/> in the html header div
+3. run command sass --watch style.scss:style.css
+then as you write code in scss the css will be auto generated
+style rule: https://sass-lang.com/documentation/style-rules
